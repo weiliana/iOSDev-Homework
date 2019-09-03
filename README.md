@@ -1,2 +1,6 @@
-# iOSDev-Poker
-iOS Develop Experiment Program
+# iOS软件开发作业-PokerGame
+### 实现功能(19.9.3)
+
+* #### 从牌组中抽取一张卡牌✅
+
+* #### 多位玩家从牌组中抽取多张卡牌✅
